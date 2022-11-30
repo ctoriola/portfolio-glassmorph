@@ -229,6 +229,11 @@ body {
 
 img {
   max-width: 100%; }
+  @media (min-width: 1400px) {
+    .img-home{
+      max-width: 300%;
+    }
+  }
 
 * {
   outline: none !important; }
