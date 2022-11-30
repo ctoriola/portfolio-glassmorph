@@ -228,7 +228,7 @@ body {
   color: #c1c1c1; }
 
 img {
-  max-width: 300%; }
+  max-width: 100%; }
 
 * {
   outline: none !important; }
